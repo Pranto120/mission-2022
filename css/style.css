@@ -41,6 +41,16 @@ h1{
     font width: 700;
     border-radius: 5px;
 }
+.first-background{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.second-background{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
 .middle-title{
     font-family: 'Sarabun', sans-serif;
     text-align: center;
@@ -127,9 +137,4 @@ span{
 .email{
     width: 50%;
     padding-right: 6%;
-}
-.first-background{
-    background-image: url(images/cover.png);
-    background-repeat: no-repeat;
-    background-position: left;
 }
